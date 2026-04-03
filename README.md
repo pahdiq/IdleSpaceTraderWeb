@@ -2,14 +2,12 @@
 
 Static website files for `gamesdonecorrectly.com`.
 
-## Included files
+## Site structure
 
-- `index.html`
-- `styles.css`
-- `favicon.svg`
-- `robots.txt`
-- `sitemap.xml`
-- `CNAME`
+- `index.html` is the company homepage.
+- `privacy/index.html` is the privacy policy page.
+- `styles.css` contains the shared site styling.
+- `favicon.svg`, `robots.txt`, `sitemap.xml`, and `CNAME` support publishing and metadata.
 
 ## Publish on GitHub Pages
 
@@ -29,6 +27,6 @@ gamesdonecorrectly.com
 
 If you want to use a different domain later, update that file.
 
-## Small customization
+## Current contact
 
-The privacy contact email is currently `privacy@gamesdonecorrectly.com` in `index.html`. Change it if you want a different address before publishing.
+The privacy contact email is currently `privacy@gamesdonecorrectly.com` in both the homepage and the privacy page.
